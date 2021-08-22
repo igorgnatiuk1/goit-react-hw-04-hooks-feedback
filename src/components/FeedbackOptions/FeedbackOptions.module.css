@@ -1,0 +1,12 @@
+div {
+    text-align: center;
+}
+
+button {
+    padding:  10px 30px;
+    margin-right:15px;
+    border-radius: 15px;
+}
+.good {
+    background-color: green;
+}
